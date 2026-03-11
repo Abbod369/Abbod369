@@ -7,7 +7,7 @@
 
 <hr>
 
-# 👋 Hello, I'm Aboud369
+# 👋 Hello, I'm Abbod369
 
 💻 **Computer Engineering Student**  
 🚀 Passionate about **Algorithms & Competitive Programming**  
